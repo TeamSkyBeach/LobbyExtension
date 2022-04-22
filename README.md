@@ -1,7 +1,7 @@
-[license-shield]: https://img.shields.io/github/license/TeamSkyBeach/StracciatellaExtension?label=licensed%20under
+[license-shield]: https://img.shields.io/github/license/TeamSkyBeach/LobbyExtension?label=licensed%20under
 [license-link]: /LICENSE
 
-# Stracciatella Extension
+# Lobby Extension
 [ ![license-shield] ][license-link]
 
 ## Required Extensions
@@ -11,6 +11,6 @@
 ```bash
 gradlew clean shadowJar
 ```
-1. (alternative) or use the latest jar from the [releases](https://github.com/TeamSkyBeach/StracciatellaExtension/releases) section
+1. (alternative) or use the latest jar from the [releases](https://github.com/TeamSkyBeach/LobbyExtension/releases) section
 2. copy the jar from `build/libs/****.jar` to the `extensions/` folder of your [Stracciatella](https://github.com/TeamSkyBeach/Stracciatella) server
 3. put the other [required extensions](#Required Extensions) in the `extensions/` folder
